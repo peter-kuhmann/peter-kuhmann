@@ -1,5 +1,5 @@
-# Peter Kuhmann
-Moin! 👋 That's how we greet in North Germany. 🌊
+# Moin! 👋
+That's how we use to greet in Northern Germany. 🌊
 
 Current station: Freelancer until  14/01/2024<br>
 __Next station: Frontend Engineer @ ***********__
