@@ -1,5 +1,3 @@
-<img src="assets/logo.png" width="96" height="96">
-
 # Peter Kuhmann
 Moin! 👋 That's how we greet in North Germany. 🌊
 
