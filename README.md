@@ -1,7 +1,7 @@
 # Moin! 👋
 That's how we use to greet in Northern Germany. 🌊
 
-Current station: Frontend Engineer @ (Perspective 🔗)[https://perspective.co]
+Current station: Frontend Engineer @ [Perspective 🔗](https://perspective.co)
 
 ## About me
 I am a Senior Full-Stack Software engineer specialized in:
