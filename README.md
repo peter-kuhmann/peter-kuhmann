@@ -1,7 +1,7 @@
 # Moin! 👋
 That's how we use to greet in Northern Germany. 🌊
 
-Current side project: [Loli Feature Flags 🔗](https://github.com/Loli-Feature-Flags/)
+Current side project: [Loli Feature Flags 🔗](https://github.com/Loli-Feature-Flags/)<br>
 Current station: Frontend Engineer @ [Perspective 🔗](https://perspective.co)
 
 ## About me
