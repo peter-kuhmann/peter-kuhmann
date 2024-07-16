@@ -6,7 +6,7 @@ That's how we use to greet in Northern Germany. 🌊
 Current station: Frontend Engineer @ [Perspective 🔗](https://perspective.co)
 
 ## About me
-I am a Senior Full-Stack Software engineer specialized in:
+I am a Full-Stack Software engineer specialized in:
 - 📣 JavaScript, TypeScript, Java, Python
 - 👨‍🎨 React, Next.js, Vue, Qwik
 - ⚙️️ Spring Boot, Node.js, Nest.js, Edge
