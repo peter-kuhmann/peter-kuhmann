@@ -26,6 +26,7 @@ What makes me special?
 - [Pan'n'Zoom 🔗](https://github.com/peter-kuhmann/pan-n-zoom)
 - [Qwik Multi-Tenancy 🔗](https://github.com/peter-kuhmann/qwik-multi-tenancy)
 - [YouTube Chapter Generator 🔗](https://github.com/peter-kuhmann/youtube-chapter-generator)
+- [Umami x Fly.io Template 🔗](https://github.com/peter-kuhmann/umami-flyio-template)
 
 ## Links
 - [Website 🔗](https://www.peter-kuhmann.de)
